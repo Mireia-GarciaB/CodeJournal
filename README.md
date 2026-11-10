@@ -1,4 +1,4 @@
-# DevKnowledgeBase
+# KnowledgeBase
 
 A personal technical wiki and knowledge base built with PHP and Laravel.
 
